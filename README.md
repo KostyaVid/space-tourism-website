@@ -17,7 +17,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://expenses-chart-component-ch6aqmxya-kostyavid.vercel.app)
+- Live Site URL: [Add live site URL here](https://space-tourism-website-f0xxptzbd-kostyavid.vercel.app)
 
 ## My process
 
