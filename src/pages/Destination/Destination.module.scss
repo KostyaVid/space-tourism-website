@@ -2,13 +2,13 @@
   background: url('./../../../public/assets/destination/background-destination-desktop.jpg')
     no-repeat center;
   background-attachment: fixed;
+  background-size: 100%;
 
   @media (max-width: 768px) {
     background-image: url(./../../../public/assets/destination/background-destination-tablet.jpg);
   }
   @media (max-width: 576px) {
     background-image: url(./../../../public/assets/destination//background-destination-mobile.jpg);
-    background-size: 100%;
   }
 }
 
