@@ -36,6 +36,7 @@ Users should be able to:
 - SCSS
 - Flexbox
 - [React](https://reactjs.org/) - JS library
+- SwiperJS
 
 ## Author
 - Frontend Mentor - [@KostyaVid](https://www.frontendmentor.io/profile/KostyaVid)
